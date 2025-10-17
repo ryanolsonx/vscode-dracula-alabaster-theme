@@ -1,10 +1,10 @@
 {
-  "name": "TODO",
-  "version": "0.1.0",
-  "displayName": "TODO",
-  "description": "TODO",
+  "name": "dracula-alabaster",
+  "version": "0.0.0",
+  "displayName": "Dracula Alabaster",
+  "description": "An alabaster version of Dracula",
   "publisher": "ryanolsonx",
-  "repository": "https://github.com/ryanolsonx/vscode-TODO",
+  "repository": "https://github.com/ryanolsonx/vscode-dracula-alabaster-theme",
   "license": "MIT",
   "keywords": [
     "dark",
@@ -19,14 +19,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark Theme",
+        "label": "Dracula Alabaster",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-color-scheme.json"
-      },
-      {
-        "label": "Light Theme",
-        "uiTheme": "vs",
-        "path": "./themes/light-color-scheme.json"
       }
     ]
   }
